@@ -77,7 +77,7 @@ export async function POST(request: Request) {
       },
       body: JSON.stringify({
         from: "Valentine Plan <onboarding@resend.dev>",
-        to: ["turigmark@gmail.com"],
+        to: ["create12212@gmail.com"],
         subject,
         html: emailHtml,
       }),
